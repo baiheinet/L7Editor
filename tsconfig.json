@@ -12,9 +12,5 @@
       ]
     }
   },
-  "include": [
-    ".dumirc.ts",
-    "src/**/*",
-    "docs/**/*"
-  ]
+  "include": []
 }
